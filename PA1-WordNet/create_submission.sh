@@ -1,1 +1,1 @@
-gzip SAP.java WordNet.java submission.zip
+zip wordnet.zip SAP.java WordNet.java Outcast.java
